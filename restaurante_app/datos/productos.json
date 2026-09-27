@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "categoria": "Comida",
+        "precio": 5.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza Personal",
+        "categoria": "Comida",
+        "precio": 6.0,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Papas Fritas",
+        "categoria": "Acompañamiento",
+        "precio": 2.5,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Gaseosa",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "stock": 40
+    }
+]

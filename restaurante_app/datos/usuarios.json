@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Administrador",
+        "correo": "admin@restaurante.com",
+        "usuario": "admin",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Empleado",
+        "correo": "empleado@restaurante.com",
+        "usuario": "empleado",
+        "contrasena": "abcd"
+    }
+]
